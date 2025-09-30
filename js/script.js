@@ -1,7 +1,7 @@
 // Add custom JavaScript here
 
 document.addEventListener("DOMContentLoaded", () => {
-  const text = "I am Ahmed";
+  const text = "I am Ayorinde Adeyemi";
   const typingSpeed = 100; // Speed in milliseconds
   let index = 0;
 
