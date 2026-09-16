@@ -57,14 +57,14 @@ export default function Nav() {
               onClick={(e) => { e.preventDefault(); window.scrollTo({ top: 0, behavior: 'smooth' }) }}
               className="flex items-center gap-2.5 group"
             >
-              <Image src="/icon.png" alt="Cedar logo" width={36} height={36} className="rounded-lg" />
+              <Image src="/logo.png" alt="Cedar logo" width={36} height={36} className="rounded-lg" />
               <span className="text-body font-sans font-semibold text-sm hidden sm:block tracking-wide">
                 Cedar<span className="text-gold">.</span>
               </span>
             </a>
           ) : (
             <Link href="/" className="flex items-center gap-2.5 group">
-              <Image src="/icon.png" alt="Cedar logo" width={36} height={36} className="rounded-lg" />
+              <Image src="/logo.png" alt="Cedar logo" width={36} height={36} className="rounded-lg" />
               <span className="text-body font-sans font-semibold text-sm hidden sm:block tracking-wide">
                 Cedar<span className="text-gold">.</span>
               </span>

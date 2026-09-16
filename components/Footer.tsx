@@ -67,7 +67,7 @@ export default function Footer() {
           {/* Brand info */}
           <div className="md:col-span-2 space-y-4">
             <div className="flex items-center space-x-3">
-              <Image src="/icon.png" alt="Cedar logo" width={36} height={36} className="rounded-xl" />
+              <Image src="/logo.png" alt="Cedar logo" width={36} height={36} className="rounded-xl" />
               <span className="text-xl font-bold text-white tracking-wide">
                 Cedar <span className="text-gold">Creatives</span>
               </span>
