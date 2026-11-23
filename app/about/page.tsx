@@ -96,10 +96,11 @@ function BiographySection() {
               From 2022 onward, the focus expanded into AI engineering. Not the tutorial kind —
               the production kind. LangGraph for agentic workflows. ChromaDB and pgvector for
               retrieval systems. OpenAI Whisper for multilingual voice AI. Every specialisation
-              was earned by building something real: Cedar-Learn (an LMS in active use), IṢẸ́ (a
-              multilingual WhatsApp voice assistant built at a hackathon), QwikCare (a healthtech
-              platform pitched at OSDLS 2.0).
+              was earned through hands-on execution: Cedar-Learn (an LMS built and deployed for active cohorts), IṢẸ́ (a
+              multilingual WhatsApp voice assistant built at a hackathon), and leading the product pitch and launch presentation for QwikCare (a healthtech
+              platform presented at OSDLS 2.0).
             </p>
+            
 
             <p>
               Today Cedar operates under Cedar Creatives Technology — a practice that covers
