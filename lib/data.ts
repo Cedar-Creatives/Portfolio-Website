@@ -84,19 +84,20 @@ export const projects: Project[] = [
     number: '03',
     title: 'QwikCare',
     category: 'HealthTech',
-    role: 'Full-Stack Developer · Team',
-    stack: ['NestJS', 'Next.js', 'PostgreSQL', 'Redis', 'Socket.io', 'Paystack'],
+    role: 'Product Pitch & Launch Lead · Team',
+    stack: ['Product Strategy', 'Publicity', 'Product Presentation', 'User Onboarding'],
     liveUrl: 'https://qwikcare.org',
     problem:
-      "Nigeria's healthcare system runs on a severely strained doctor-to-patient ratio, and over 70 million Nigerians spend more than 40% of their income on healthcare. QwikCare was founded after a near-tragic personal experience with delayed care exposed how disconnected patients, doctors, nurses, and pharmacies really are.",
+      "Nigeria's healthcare system runs on a severely strained doctor-to-patient ratio, and over 70 million Nigerians spend more than 40% of their income on healthcare. QwikCare was built to bridge the gap between patients, doctors, nurses, and pharmacies.",
     solution:
-      'Joined as full-stack developer, working across the NestJS backend and Next.js frontend within a larger platform architecture covering booking, records, pharmacy, and HMO insurance flows.',
+      'Led product publicity, market positioning, and live launch presentations — representing the platform at OSDLS 2.0 (Osun State Digital Literacy Summit 2026) and driving early user and stakeholder awareness.',
     outcome:
-      '40+ verified healthcare professionals onboarded and 500 patient users. Pitched at OSDLS 2.0 (Osun State Digital Literacy Summit 2026).',
+      'Successfully pitched at OSDLS 2.0, supporting early onboarding of 40+ verified healthcare professionals and 500 patient users.',
     badge: 'OSDLS 2.0 — Pitched',
     accentFrom: '#052e16',
     accentTo: '#0B0B18',
   },
+      
   {
     number: '04',
     title: 'Kaytop',
